@@ -4,8 +4,6 @@
 
 ## Sales Forecasting Dashboard
 
----
-
 ### 1. Monthly Sales
 
 <img src="images/Monthly Sales.png" alt="Monthly Sales">
